@@ -157,7 +157,7 @@ Controller → Service → Repository → Database
 
    ```
    spring.datasource.username=root
-   spring.datasource.password=bhavitha123@
+   spring.datasource.password=yourpassword
    ```
 4. Run the application
 5. Use Postman to test APIs
